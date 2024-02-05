@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1,h2,p,a{
+    color: #ffffff;
+}
+.header{
+    background-color: #56ee42;
+    height: 100px;
+    text-align: center;
+}
+.navbar_section{
+    background-color: #31b6eb;
+    height: 250px;
+    text-align: center;
+}
+.portfolio{
+display: flex;
+}
+.left_side{
+    width: 50%;
+    height: 450px;
+    background-color: #63cf24;
+    text-align: center;
+}
+.left_top{
+    height: 50%;
+    background-color: #291ec5;
+    text-align: center;
+}
+.left_bottom{
+    height: 50%;
+    background-color: #db19ec;
+    text-align: center;
+}
+.right_side{
+    width: 50%;
+    height: 450px;
+    background-color: #ec1b1b;
+    text-align: center;
+}
+
+.footer_section{
+    height: 100px;
+    background-color: #017a83;
+    text-align: center;
+}
+p,a{
+    margin-top: 30px;
+    text-decoration: none;
+    
+}
